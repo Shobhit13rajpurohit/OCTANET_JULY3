@@ -8,7 +8,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience](https://swiggy-food-lovers.netlify.app/)
+- Deployed Link:- [Enjoy the Experience]([https://swiggy-lover.netlify.app/)
 
 ## How to get Started 🚀
 
@@ -108,6 +108,3 @@ Versions of this project which are currently being supported with security updat
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Creator 😇
-
-- 👤 [Nitesh Verma](https://github.com/Nitesh288)
