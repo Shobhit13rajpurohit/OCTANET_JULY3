@@ -14,10 +14,8 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 **There are two methods for getting started with this repo.**
 
-#### Familiar with Git ?
+#### Familiar with Git 
 
-```
-> git clone https://github.com/Nitesh288/Swiggy-Clone
 > cd Swiggy_Clone
 > npm install
 > npm start
